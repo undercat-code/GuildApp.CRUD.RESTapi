@@ -1,0 +1,30 @@
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\bin\Debug\net8.0\Guild.Application.deps.json
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\bin\Debug\net8.0\Guild.Application.dll
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\bin\Debug\net8.0\Guild.Application.pdb
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\bin\Debug\net8.0\Guild.Domain.dll
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\bin\Debug\net8.0\Guild.Domain.pdb
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\obj\Debug\net8.0\Guild.Application.csproj.AssemblyReference.cache
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\obj\Debug\net8.0\Guild.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\obj\Debug\net8.0\Guild.Application.AssemblyInfoInputs.cache
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\obj\Debug\net8.0\Guild.Application.AssemblyInfo.cs
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\obj\Debug\net8.0\Guild.Application.csproj.CoreCompileInputs.cache
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\obj\Debug\net8.0\Guild.Application.csproj.CopyComplete
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\obj\Debug\net8.0\Guild.Application.dll
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\obj\Debug\net8.0\refint\Guild.Application.dll
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\obj\Debug\net8.0\Guild.Application.pdb
+C:\Users\R\RiderProjects\GuildApp\Guild.Application\obj\Debug\net8.0\ref\Guild.Application.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\bin\Debug\net8.0\Guild.Application.deps.json
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\bin\Debug\net8.0\Guild.Application.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\bin\Debug\net8.0\Guild.Application.pdb
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\bin\Debug\net8.0\Guild.Domain.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\bin\Debug\net8.0\Guild.Domain.pdb
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\obj\Debug\net8.0\Guild.Application.csproj.AssemblyReference.cache
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\obj\Debug\net8.0\Guild.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\obj\Debug\net8.0\Guild.Application.AssemblyInfoInputs.cache
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\obj\Debug\net8.0\Guild.Application.AssemblyInfo.cs
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\obj\Debug\net8.0\Guild.Application.csproj.CoreCompileInputs.cache
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\obj\Debug\net8.0\Guild.Application.csproj.CopyComplete
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\obj\Debug\net8.0\Guild.Application.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\obj\Debug\net8.0\refint\Guild.Application.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\obj\Debug\net8.0\Guild.Application.pdb
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Application\obj\Debug\net8.0\ref\Guild.Application.dll

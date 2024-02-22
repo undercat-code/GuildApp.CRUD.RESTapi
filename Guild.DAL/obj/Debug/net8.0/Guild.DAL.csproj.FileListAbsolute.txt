@@ -1,0 +1,34 @@
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\bin\Debug\net8.0\Guild.DAL.deps.json
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\bin\Debug\net8.0\Guild.DAL.dll
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\bin\Debug\net8.0\Guild.DAL.pdb
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\bin\Debug\net8.0\Guild.Application.dll
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\bin\Debug\net8.0\Guild.Domain.dll
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\bin\Debug\net8.0\Guild.Application.pdb
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\bin\Debug\net8.0\Guild.Domain.pdb
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\obj\Debug\net8.0\Guild.DAL.csproj.AssemblyReference.cache
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\obj\Debug\net8.0\Guild.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\obj\Debug\net8.0\Guild.DAL.AssemblyInfoInputs.cache
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\obj\Debug\net8.0\Guild.DAL.AssemblyInfo.cs
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\obj\Debug\net8.0\Guild.DAL.csproj.CoreCompileInputs.cache
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\obj\Debug\net8.0\Guild.DAL.csproj.CopyComplete
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\obj\Debug\net8.0\Guild.DAL.dll
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\obj\Debug\net8.0\refint\Guild.DAL.dll
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\obj\Debug\net8.0\Guild.DAL.pdb
+C:\Users\R\RiderProjects\GuildApp\Guild.DAL\obj\Debug\net8.0\ref\Guild.DAL.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\bin\Debug\net8.0\Guild.DAL.deps.json
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\bin\Debug\net8.0\Guild.DAL.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\bin\Debug\net8.0\Guild.DAL.pdb
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\bin\Debug\net8.0\Guild.Application.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\bin\Debug\net8.0\Guild.Domain.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\bin\Debug\net8.0\Guild.Application.pdb
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\bin\Debug\net8.0\Guild.Domain.pdb
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\obj\Debug\net8.0\Guild.DAL.csproj.AssemblyReference.cache
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\obj\Debug\net8.0\Guild.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\obj\Debug\net8.0\Guild.DAL.AssemblyInfoInputs.cache
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\obj\Debug\net8.0\Guild.DAL.AssemblyInfo.cs
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\obj\Debug\net8.0\Guild.DAL.csproj.CoreCompileInputs.cache
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\obj\Debug\net8.0\Guild.DAL.csproj.CopyComplete
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\obj\Debug\net8.0\Guild.DAL.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\obj\Debug\net8.0\refint\Guild.DAL.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\obj\Debug\net8.0\Guild.DAL.pdb
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.DAL\obj\Debug\net8.0\ref\Guild.DAL.dll

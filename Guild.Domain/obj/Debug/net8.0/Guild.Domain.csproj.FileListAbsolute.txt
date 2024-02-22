@@ -1,0 +1,22 @@
+C:\Users\R\RiderProjects\GuildApp\Guild.Domain\bin\Debug\net8.0\Guild.Domain.deps.json
+C:\Users\R\RiderProjects\GuildApp\Guild.Domain\bin\Debug\net8.0\Guild.Domain.dll
+C:\Users\R\RiderProjects\GuildApp\Guild.Domain\bin\Debug\net8.0\Guild.Domain.pdb
+C:\Users\R\RiderProjects\GuildApp\Guild.Domain\obj\Debug\net8.0\Guild.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R\RiderProjects\GuildApp\Guild.Domain\obj\Debug\net8.0\Guild.Domain.AssemblyInfoInputs.cache
+C:\Users\R\RiderProjects\GuildApp\Guild.Domain\obj\Debug\net8.0\Guild.Domain.AssemblyInfo.cs
+C:\Users\R\RiderProjects\GuildApp\Guild.Domain\obj\Debug\net8.0\Guild.Domain.csproj.CoreCompileInputs.cache
+C:\Users\R\RiderProjects\GuildApp\Guild.Domain\obj\Debug\net8.0\Guild.Domain.dll
+C:\Users\R\RiderProjects\GuildApp\Guild.Domain\obj\Debug\net8.0\refint\Guild.Domain.dll
+C:\Users\R\RiderProjects\GuildApp\Guild.Domain\obj\Debug\net8.0\Guild.Domain.pdb
+C:\Users\R\RiderProjects\GuildApp\Guild.Domain\obj\Debug\net8.0\ref\Guild.Domain.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Domain\bin\Debug\net8.0\Guild.Domain.deps.json
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Domain\bin\Debug\net8.0\Guild.Domain.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Domain\bin\Debug\net8.0\Guild.Domain.pdb
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Domain\obj\Debug\net8.0\Guild.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Domain\obj\Debug\net8.0\Guild.Domain.AssemblyInfoInputs.cache
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Domain\obj\Debug\net8.0\Guild.Domain.AssemblyInfo.cs
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Domain\obj\Debug\net8.0\Guild.Domain.csproj.CoreCompileInputs.cache
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Domain\obj\Debug\net8.0\Guild.Domain.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Domain\obj\Debug\net8.0\refint\Guild.Domain.dll
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Domain\obj\Debug\net8.0\Guild.Domain.pdb
+C:\Users\R\RiderProjects\GuildApp — копия\Guild.Domain\obj\Debug\net8.0\ref\Guild.Domain.dll
